@@ -1,67 +1,56 @@
-# 👋 Hi, I’m Rishav Raj!
+# 👋 Hi, I'm Rishav Raj!
 
-### 🚀 Welcome to my GitHub profile!
+### 🚀 Senior Data Scientist | Algorithmic Trading Developer | AI/ML Enthusiast
 
-I'm a passionate **Data Scientist**, **Algorithmic Trading Developer**, and lifelong learner based now in India. I specialize in creating scalable analytics platforms and ultra-low latency trading systems powered by cutting-edge machine learning and real-time data streaming.
+Welcome to my GitHub!
 
----
-
-## 💡 About Me
-
-- **🧑🏻‍💻 Senior Data Scientist | ML Expert**
-- **📈 Algorithmic Trading | High-Frequency Trading | Market Data Engineering**
-- **🔬 Deep Learning | NLP | AI/ML for Finance**
-- **🌐 Cloud Engineering:** AWS, GCP, Azure
-- **📸 Photography & Tech Enthusiast**
+I design and build **cutting-edge platforms** for algorithmic trading, advanced analytics, and data science. My work ranges from **ultra-low latency HFT systems with FPGA acceleration** to **quantum-inspired portfolio optimization**, covering real-time market microstructure analysis, autonomous trading agents, and deep learning research.
 
 ---
 
-## 🛠️ Current Projects
+## 💡 What I Do
 
-- **Advanced Market Data Analytics Platform**  
-  Real-time microstructure analysis, event-driven strategies & ML-powered dashboards
+- **High-Frequency & Algorithmic Trading:**
+  - FPGA-based nanosecond trading architectures
+  - Distributed systems with blockchain consensus
+  - Automated risk management and anomaly detection
 
-- **High-Frequency Trading with FPGA Acceleration**  
-  Ultra-low latency architectures using Verilog, DPDK, machine learning, and smart order routing
+- **AI/ML for Finance & Data Science:**
+  - Market Alpha Discovery agents
+  - Financial modeling and credit risk analysis
+  - Gradient boosting, NLP, and support vector machines
 
-- **Custom EMA & Options Trading Algorithms**  
-  Automated trading and backtesting systems for NSE, F&O, and crypto markets
+- **Advanced Platforms & Research:**
+  - Real-time risk engines
+  - Portfolio optimization using quantum principles
+  - Backtesting frameworks and trading strategy automation
 
----
-
-## 📚 What I'm Learning
-
-- Latest advances in **Deep Learning**: Transformers, Advanced Neural Networks
-- **Financial Engineering**: Quantitative models, risk management, backtesting frameworks
-- **Cloud Automation** via serverless ML pipelines
-
----
-
-## 🤝 Looking to Collaborate On
-
-- **Market Data Science** & Visual Analytics  
-- **Real-time Trading Systems**  
-- **Open-source ML Projects**  
-- **Professional & Academic Research in Finance/AI**
+- **Extra Interests:**
+  - Cloud engineering (AWS, GCP, Azure)
+  - Computer vision (OpenCV, Neural Radiance Fields)
+  - Data visualization and reporting
 
 ---
 
-## 📬 Connect with Me
+## 🏗️ Featured Projects
 
-- **Email:** [rishavraj5249@gmail.com](mailto:rishavraj5249@gmail.com)
-- **LinkedIn:** [linkedin.com/in/rajrishav5249](https://www.linkedin.com/in/rajrishav5249)
-- **Instagram:** [_myself_rishav_](https://www.instagram.com/_myself_rishav_/)
-- **ORCID:** [0009-0006-2620-5292](https://orcid.org/0009-0006-2620-5292)
-- **X (Twitter):** [@Rishav_Raj_5249](https://x.com/Rishav_Raj_5249)
-
----
-
-## 📌 GitHub Stats
-
-- ⭐️ **Pinned Projects:** Showcasing trading platforms, ML notebooks, and smart data solutions
-- 🏅 **Contributions:** Building innovative solutions for financial markets and AI/ML communities
+- **Advanced Market Data Analytics Platform —** Real-time microstructure streaming and ML dashboards
+- **High-Frequency Trading System with FPGA Acceleration —** Sub-microsecond smart order routing & risk management
+- **Market Alpha Discovery —** Autonomous agent for signal generation and portfolio evolution
+- **Quantum-Inspired Portfolio Optimization —** Next-gen financial optimization
+- **Real-time Multi-Asset Risk Management Engine —** Millions of trades analyzed per second for anomaly and risk
 
 ---
 
-> _“Always learning, always building.”_
+## 📬 Connect & Collaborate
+
+- [LinkedIn](https://www.linkedin.com/in/rajrishav5249)
+- [Instagram](https://www.instagram.com/_myself_rishav_/)
+- [ORCID](https://orcid.org/0009-0006-2620-5292)
+- [Email](mailto:rishavraj5249@gmail.com)
+- [X (Twitter)](https://x.com/Rishav_Raj_5249)
+
+---
+
+> _Bridging the gap between traditional finance and next-gen AI/ML — always learning, always building._
 
