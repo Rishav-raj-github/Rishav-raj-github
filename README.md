@@ -1,6 +1,6 @@
 
 
- 🚀 Senior Data Scientist | Quantitative Systems Developer | AI/ML Researcher
+Senior Data Scientist | Quantitative Systems Developer | AI/ML Researcher
 
 I architect and deliver high-performance platforms for quantitative strategy execution, advanced analytics, and applied machine learning. My expertise spans ultra-low latency market infrastructure, FPGA-accelerated solutions, quantum-inspired portfolio optimization, and research-driven financial AI—all with a focus on adaptability and continuous deployment in dynamic technology environments.
 
@@ -27,16 +27,11 @@ I architect and deliver high-performance platforms for quantitative strategy exe
   - API integration for real-time market connectivity (FIX, REST)
   - Containerization and orchestration (Docker, Kubernetes)
 
-***
 
-## 🏗️ Featured Projects
+ Featured Projects
 
 - **Market Data Intelligence Platform —** Real-time stream processing and interactive ML dashboards
 - **Low-Latency Execution System —** Sub-microsecond order handling & integrated risk controls
 - **Alpha Signal Agents —** Fully autonomous frameworks for quantitative insight detection
 - **Quantum-Inspired Portfolio Tools —** Next-generation financial allocation
 - **Multi-Asset Risk Management Engine —** Millions of positions processed per second, robust anomaly tracking
-
-**Feel free to copy this and paste it into your README for a refined, modern profile!**[1]
-
-[1](https://github.com/Rishav-raj-github/Rishav-raj-github/edit/main/README.md)
