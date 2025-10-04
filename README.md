@@ -1,10 +1,9 @@
 # 👋 Hi, I'm Rishav Raj!
 
-### 🚀 Senior Data Scientist | Algorithmic Trading Developer | AI/ML Enthusiast
+### 🚀 Senior Data Scientist | Algorithmic Developer | AI/ML researcher
 
-Welcome to my GitHub!
 
-I design and build **cutting-edge platforms** for algorithmic trading, advanced analytics, and data science. My work ranges from **ultra-low latency HFT systems with FPGA acceleration** to **quantum-inspired portfolio optimization**, covering real-time market microstructure analysis, autonomous trading agents, and deep learning research.
+I design and build **cutting-edge platforms** for algorithmic trading, advanced analytics, and data science. My work ranges from **ultra-low latency HFT systems with FPGA acceleration** to **quantum-inspired portfolio optimization**, covering real-time market microstructure analysis, autonomous trading agents, and deep learning research. with upgradation with changing environment and continuous deployment management
 
 ---
 
@@ -43,14 +42,6 @@ I design and build **cutting-edge platforms** for algorithmic trading, advanced 
 ---
 
 ## 📬 Connect & Collaborate
-
-- [LinkedIn](https://www.linkedin.com/in/rajrishav5249)
-- [Instagram](https://www.instagram.com/_myself_rishav_/)
-- [ORCID](https://orcid.org/0009-0006-2620-5292)
-- [Email](mailto:rishavraj5249@gmail.com)
-- [X (Twitter)](https://x.com/Rishav_Raj_5249)
-
----
 
 > _Bridging the gap between traditional finance and next-gen AI/ML — always learning, always building._
 
