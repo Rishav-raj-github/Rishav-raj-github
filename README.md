@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">Hi, I'm Rishav — AI/ML Engineer • Data Scientist • Quant Systems Dev</h1>
+<h1 align="center">Hi, It's Rishav here — AI/ML Engineer • Data Scientist • Quant Systems Dev</h1>
 <p align="center">
   <a href="https://github.com/Rishav-raj-github"><img src="https://komarev.com/ghpvc/?username=Rishav-raj-github&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/></a>
   <a href="https://github.com/Rishav-raj-github?tab=followers"><img src="https://img.shields.io/github/followers/Rishav-raj-github?style=social" alt="followers"/></a>
