@@ -1,87 +1,46 @@
-<!-- Profile Header -->
-<h1 align="center">Hi, It's Rishav here — AI/ML Engineer • Data Scientist • Quant Systems Dev</h1>
-<p align="center">
-  <a href="https://github.com/Rishav-raj-github"><img src="https://komarev.com/ghpvc/?username=Rishav-raj-github&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/></a>
-  <a href="https://github.com/Rishav-raj-github?tab=followers"><img src="https://img.shields.io/github/followers/Rishav-raj-github?style=social" alt="followers"/></a>
-  <a href="mailto:rishav@example.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-informational?logo=gmail&logoColor=white&color=EA4335"/></a>
-  <a href="https://www.linkedin.com/in/rishav-raj/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"/></a>
-</p>
+# Hello, I'm Rishav Raj 👋
 
-<!-- Summary -->
-I design and ship end‑to‑end AI systems and data platforms—from experimentation to production. My focus areas include foundation model fine‑tuning, multimodal perception, realtime ML on streams, and scalable analytics for business and quantitative research.
+### 🔮 Quantitative Developer & AI Engineer
+I design and implement enterprise-grade, low-latency transaction execution engines, high-frequency stream-processing platforms, and advanced retrieval-augmented generation (RAG) models.
 
-- MLOps: experiment tracking, CI/CD for ML, feature stores, model registry, evaluation at scale
-- Applied ML: NLP, vision, time‑series forecasting, tabular ML, recommender systems
-- Systems: distributed compute, streaming, vector databases, GPU acceleration, low‑latency infra
+---
 
-<!-- Tech Stack Badges -->
-<h3>AI/ML Technologies</h3>
-<p>
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00?logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C?logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JAX-%230074C1?logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hugging%20Face-%23FFD21E?logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E?logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-%235C3EE8?logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-%23013243?logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-%23150458?logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-%23007ACC?logo=plotly&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-%231C3B6F?logo=python&logoColor=white"/>
-</p>
+## 🚀 Key Highlights & Projects
 
-<h3>Data/Infra</h3>
-<p>
-  <img src="https://img.shields.io/badge/Apache%20Spark-%23E25A1C?logo=apachespark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DuckDB-%23000000?logo=duckdb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache%20Kafka-%23231F20?logo=apachekafka&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Airflow-%23017CEE?logo=apacheairflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-%232496ED?logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-%23326CE5?logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-%23232F3E?logo=amazonaws&logoColor=white"/>
-</p>
+### ⚙️ Quantitative & High-Frequency Execution Systems
+*   **[quant-execution-oms](https://github.com/Rishav-raj-github/quant-execution-oms)**: A modern Order Management System integrated with local brokerage adapters, real-time risk checks, and interactive AI playgrounds (**PromptArena** & **RAGExplorer**) for structured sentiment modeling and citation-based financial context retrieval.
+*   **[-Real-time-Multi-Asset-Risk-Management-Engine](https://github.com/Rishav-raj-github/-Real-time-Multi-Asset-Risk-Management-Engine)**: A high-performance risk engine designed to process millions of transactions per second with real-time anomaly detection.
+*   **[High-Frequency-Execution-System-with-FPGA-Acceleration](https://github.com/Rishav-raj-github/High-Frequency-Execution-System-with-FPGA-Acceleration)**: A ultra-low latency execution infrastructure leveraging hardware acceleration (FPGAs) to optimize market order routing.
 
-<!-- Pinned/Best Work -->
-<h2>Featured Work</h2>
-<ul>
-  <li><b>EduScore Predictor</b> — Feature engineering + linear regression on real exam data. <a href="https://github.com/Rishav-raj-github/Predictive-Intelligence-Systems-Linear-Regression-/issues/5">Issue</a> • <a href="https://github.com/Rishav-raj-github/Predictive-Intelligence-Systems-Linear-Regression-">Repo</a></li>
-  <li><b>AgriYield Insights</b> — Crop yield forecasting with regression baselines and error analysis. <a href="https://github.com/Rishav-raj-github/Predictive-Intelligence-Systems-Linear-Regression-/issues/4">Issue</a></li>
-  <li><b>SalesFlow Forecaster</b> — Time‑series forecasting for sales; seasonality + promotion effects. <a href="https://github.com/Rishav-raj-github/Predictive-Intelligence-Systems-Linear-Regression-/issues/3">Issue</a></li>
-  <li><b>PropVal AI Engine</b> — Real‑estate price prediction with model comparison. <a href="https://github.com/Rishav-raj-github/Predictive-Intelligence-Systems-Linear-Regression-/issues/2">Issue</a></li>
-</ul>
+### 🛰️ Machine Learning & Computer Vision
+*   **[Advanced-Satellite-Imagery-Analysis-with-SAM-and-Segment-Anything](https://github.com/Rishav-raj-github/Advanced-Satellite-Imagery-Analysis-with-SAM-and-Segment-Anything)**: Enterprise-grade geospatial intelligence platform combining Meta's Segment Anything Model (SAM) with deep learning for precision object tracking.
+*   **[marketfeed-digitalasset-bot](https://github.com/Rishav-raj-github/marketfeed-digitalasset-bot)**: A fully automated analytical trading agent processing webhooks and routing execution tasks across digital asset gateways.
 
-<!-- Showcase Notebooks -->
-<h2>Curated Jupyter Notebooks</h2>
-<p>These projects highlight applied ML workflows. Notebooks are stored in each repo under /notebooks.</p>
-<ul>
-  <li><a href="https://github.com/Rishav-raj-github/Binary-Intelligence-Frameworks-Logistic-Regression-">Binary-Intelligence-Frameworks-Logistic-Regression-</a> — End‑to‑end classification with metrics and calibration.</li>
-  <li><a href="https://github.com/Rishav-raj-github/Predictive-Intelligence-Systems-Linear-Regression-">Predictive-Intelligence-Systems-Linear-Regression-</a> — Feature pipelines, cross‑validation, and diagnostics.</li>
-  <li><a href="https://github.com/Rishav-raj-github/Market-Alpha-Discovery">Market-Alpha-Discovery</a> — Alpha research notebooks and experiments.</li>
-</ul>
+---
 
-<!-- Trending AI/ML -->
-<h2>Trending AI/ML Repos to Watch</h2>
-<ul>
-  <li><a href="https://github.com/microsoft/BitNet">microsoft/BitNet</a> — Official inference framework for 1‑bit LLMs.</li>
-  <li><a href="https://github.com/huggingface/course">huggingface/course</a> — Learn transformers and modern NLP.</li>
-  <li><a href="https://github.com/duckdb/duckdb">duckdb/duckdb</a> — In‑process analytics DB for notebooks and apps.</li>
-</ul>
+## 🛠️ Technical Skill Matrix
 
-<!-- Open Source Contributions -->
-<h2>Open Source Contributions</h2>
-<ul>
-  <li>Docs and feature contributions across ML repos; currently exploring issues in <a href="https://github.com/Infisical/infisical">Infisical</a> and <a href="https://github.com/aws/aws-sdk-java-v2">AWS SDK v2</a>.</li>
-</ul>
+```
+⚡ Low-Latency Systems  ::  C++, Rust, Go, CUDA, FPGA (VHDL/Verilog)
+📊 Data Engineering      ::  Python, Apache Kafka, Flink, PostgreSQL, Time-Scale DB
+🤖 Artificial Intelligence ::  PyTorch, Transformers, LLMs (Prompt Engineering), RAG, Segment Anything (SAM)
+☁️ Infrastructure         ::  Docker, Kubernetes, GCP, AWS, Git CI/CD
+```
 
-<!-- Contact & Socials -->
-<h2>Contact</h2>
-<p>
-  <a href="mailto:rishav@example.com">Email</a> •
-  <a href="https://www.linkedin.com/in/rishav-raj/">LinkedIn</a> •
-  <a href="https://huggingface.co/">Hugging Face</a>
-</p>
+---
 
-<!-- Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rishav-raj-github&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishav-raj-github&theme=tokyonight" height="160"/>
-</p>
+## 📈 Activity & Stats
+
+| Metric | Badge / Indicator |
+| :--- | :--- |
+| **Profile Views** | ![Views](https://komarev.com/ghpvc/?username=Rishav-raj-github&color=blueviolet&style=flat-square) |
+| **Commit Streak** | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rishav-raj-github&theme=tokyonight&hide_border=true) |
+| **GitHub Stats** | ![Stats](https://github-readme-stats.vercel.app/api?username=Rishav-raj-github&theme=tokyonight&show_icons=true&hide_border=true) |
+
+---
+
+### 🌐 Let's Connect
+*   **GitHub**: [@Rishav-raj-github](https://github.com/Rishav-raj-github)
+*   **Specialties**: Systematic Execution Systems, Low-Latency Architectures, Deep Learning, Quantitative Analytics.
+
+*“Leveraging math, hardware acceleration, and generative intelligence to solve high-dimensional data execution problems.”*
