@@ -1,6 +1,6 @@
 # Hello, I'm Rishav Raj 👋
 
-### 🔮 Quantitative Developer & AI Engineer
+### 🔮 Quantitative Scientist  & AI Engineer
 I design and implement enterprise-grade, low-latency transaction execution engines, high-frequency stream-processing platforms, and advanced retrieval-augmented generation (RAG) models.
 
 ---
