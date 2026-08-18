@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120">
+  <defs>
+    <radialGradient id="tensorBg" cx="40%" cy="30%" r="70%">
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="40%" stop-color="#0284c7" />
+      <stop offset="80%" stop-color="#0369a1" />
+      <stop offset="100%" stop-color="#082f49" />
+    </radialGradient>
+    <filter id="badgeShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="4" stdDeviation="4" flood-color="#000" flood-opacity="0.5" />
+    </filter>
+  </defs>
+
+  <circle cx="60" cy="60" r="54" fill="url(#tensorBg)" stroke="#ffffff" stroke-width="4.5" filter="url(#badgeShadow)" />
+  <ellipse cx="60" cy="24" rx="36" ry="14" fill="#ffffff" opacity="0.2" />
+
+  <!-- 3D Tensor Cube -->
+  <g transform="translate(60, 60)">
+    <!-- Outer Isometric Faces -->
+    <!-- Top Face -->
+    <polygon points="0,-24 20,-12 0,0 -20,-12" fill="#7dd3fc" stroke="#ffffff" stroke-width="1.8" />
+    <!-- Left Face -->
+    <polygon points="-20,-12 0,0 0,24 -20,12" fill="#0284c7" stroke="#ffffff" stroke-width="1.8" />
+    <!-- Right Face -->
+    <polygon points="0,0 20,-12 20,12 0,24" fill="#0369a1" stroke="#ffffff" stroke-width="1.8" />
+
+    <!-- Inner Core Point -->
+    <circle cx="0" cy="0" r="4" fill="#fef08a" stroke="#ffffff" stroke-width="1" />
+  </g>
+</svg>
